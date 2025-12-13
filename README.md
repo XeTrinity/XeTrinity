@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**XeTrinity/XeTrinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Nick**, a computer science student and tech nerd from the U.S.
 
-Here are some ideas to get you started:
+I love tinkering with things. I’ve built several custom computers, run a self-hosted homelab, and I’m always chasing better performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Whether it’s cleaner code or faster systems, I’m obsessed with **optimization** and **efficiency**.
+
+My current stack: **Next.js**, **TypeScript**, **React**, and **Tailwind CSS**.  
+
+---
+
+### 🔭 What I’m Working On
+- 🧩 A **Valorant Tracker App** that blends player data with a smooth UI and performance visualization  
+- 💡 Expanding my homelab setup
+- 🧠 Leveling up my backend and systems programming skills
+- 👨‍💻 Learning Chinese - 你好!
+
+---
+
+### 🌌 Fun Facts
+I love 🐈s, all things space and, Xbox 360 modding.
