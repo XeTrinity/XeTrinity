@@ -11,7 +11,6 @@ My current stack: **Next.js**, **TypeScript**, **React**, and **Tailwind CSS**.
 ---
 
 ### 🔭 What I’m Working On
-- 🧩 A **Valorant Tracker App** that blends player data with a smooth UI and performance visualization  
 - 💡 Expanding my homelab setup
 - 🧠 Leveling up my backend and systems programming skills
 - 👨‍💻 Learning Chinese - 你好!
